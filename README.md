@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-    <h1 align="center"> ⚛️ Github Stats</h1>
+    <h2 align="center"> ⚛️ Github Stats</h2>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Mukesh469&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 
